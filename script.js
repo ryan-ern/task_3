@@ -26,17 +26,17 @@
             </label>
             <br> <br>
             <p>Menu Makan Anda Hari Ini Apa?</p>
-            <input type="checkbox" name="pause" id="pause" value="pause" />
-            <label for="pause"> Sayur </label>&emsp;
+            <input type="checkbox" name="Sayur" id="Sayur" value="Sayur" />
+            <label for="Sayur"> Sayur </label>&emsp;
 
-            <input type="checkbox" name="fullscreen" id="fullscreen" value="fullscreen"/>
-            <label for="fullscreen"> Daging </label><br>
+            <input type="checkbox" name="Daging" id="Daging" value="Daging"/>
+            <label for="Daging"> Daging </label><br>
 
-            <input type="checkbox" name="mute" id="mute" value="mute" />
-            <label for="mute"> Ikan </label>&nbsp;&nbsp;&emsp;
+            <input type="checkbox" name="Ikan" id="Ikan" value="Ikan" />
+            <label for="Ikan"> Ikan </label>&nbsp;&nbsp;&emsp;
 
-            <input type="checkbox" name="download" id="download" value="download" />
-            <label for="download"> Lainnya </label><br />
+            <input type="checkbox" name="Lainnya" id="Lainnya" value="Lainnya" />
+            <label for="Lainnya"> Lainnya </label><br />
 
             <br>
             <textarea name="pesan" id="pesan" cols="30" rows="10" placeholder="Tinggalkan Pesan Anda Disini"></textarea>
